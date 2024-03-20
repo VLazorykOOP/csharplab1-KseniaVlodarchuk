@@ -18,6 +18,7 @@ task1();
  
 static void Main()
 {
+    Console.WriteLine("fd");
     Console.WriteLine("Input the first term of the geometric progression:");
     double firstTerm = Convert.ToDouble(Console.ReadLine());
 
